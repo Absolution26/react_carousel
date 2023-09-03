@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Carousel.scss"],"names":[],"mappings":"AACE,gBACE,qBAAuB,CACvB,SAAU,CACV,YAAa,CACb,eAAgB,CAChB,eAAgB","file":"main.36d581db.chunk.css","sourcesContent":[".Carousel {\n  &__list {\n    border: 3px solid black;\n    padding: 0;\n    display: flex;\n    list-style: none;\n    overflow: hidden;\n  }\n}\n"]}
